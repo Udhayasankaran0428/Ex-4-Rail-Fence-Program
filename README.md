@@ -18,7 +18,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
-# PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -69,9 +69,9 @@ int main() {
 
 ```
 
-# OUTPUT:
+## OUTPUT:
 <img width="615" height="362" alt="image" src="https://github.com/user-attachments/assets/e9e6ab60-808c-4bc4-bdee-f0b46efeed7a" />
 
-# RESULT:
+## RESULT:
 The program is executed successfully.
 
