@@ -1,4 +1,4 @@
-# Ex-4 IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
+# Ex-5 IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
