@@ -26,11 +26,9 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 int main() {
     int i, j, k, l;
     char a[100], c[100], d[100];
-
     printf("\n\t\t RAIL FENCE TECHNIQUE\n");
     printf("\nEnter the input string : ");
-    scanf("%s", a);   // Read single word (no spaces)
-
+    scanf("%s", a);   
     l = strlen(a);
 
     /* Ciphering */
@@ -43,7 +41,6 @@ int main() {
             c[j++] = a[i];
     }
     c[j] = '\0';
-
     printf("\nCipher text after applying rail fence : %s", c);
 
     /* Deciphering */
@@ -61,12 +58,9 @@ int main() {
         j += 2;
     }
     d[l] = '\0';
-
     printf("\nText after decryption : %s\n", d);
-
     return 0;
 }
-
 ```
 
 ## OUTPUT:
